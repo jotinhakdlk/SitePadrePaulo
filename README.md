@@ -1,2 +1,2 @@
 # SitePadrePaulo
-  O site foi projetado tendo como base a o design disponibilizado pela Alura, a intenção do site é disponibilizar a assinatura do curso de Padre Paulo Ricardo, apesar de já existir um site oficial para este fim. O site foi desenvolvido tanto pelo código quanto pelo design pelo João Pedro K. do 2ºano técnico, do Colégio Estadual Antônio de Moraes Barros.
+  O site foi projetado tendo como base a o design disponibilizado pela Alura, a intenção do site é disponibilizar a assinatura do curso de Padre Paulo Ricardo, apesar de já existir um site oficial para este fim. O site foi desenvolvido tanto pelo código quanto pelo design pelo João Pedro K. do 2ºano técnico, do Colégio Estadual Antônio de Moraes Barros, tendo como professor Lucas M. Camacho.
