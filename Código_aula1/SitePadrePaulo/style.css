@@ -1,0 +1,30 @@
+:root{
+    --cor-padrao: #FFFFFF;
+    --cor-forte: #C08834;
+    --cor-fraca: #F9F9F9;
+    --cor-fraquissima: #C0C0C0;
+    --cor-de-fundo: #000000;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.principal{
+    background-image: url(img/FundoPadrePaulo.png);
+    color: var(--cor-padrao)
+}
+
+h1{
+    text-align: center;
+}
+
+strong{
+    color: var(--cor-forte);
+}
+
