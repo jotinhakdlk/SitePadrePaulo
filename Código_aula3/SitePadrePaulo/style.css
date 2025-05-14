@@ -1,0 +1,61 @@
+:root{
+    --cor-padrao: #FFFFFF;
+    --cor-forte: #C08834;
+    --cor-fraca: #F9F9F9;
+    --cor-fraquissima: #C0C0C0;
+    --cor-de-fundo: #000000;
+    --fonte: "Inter"
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte);
+}
+
+.principal{
+    background-image: url(img/FundoPadrePaulo.png);
+    color: var(--cor-padrao);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    margin-left: 3.5em;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+strong{
+    color: var(--cor-forte);
+}
+
+.container__botao{
+    background-color: var(--cor-forte);
+    border-radius: 8px;
+    padding: 1em;
+    text-decoration: none;
+    color: var(--cor-padrao);
+    display: block;
+}
+
+.botao_secundario{
+    background-color: transparent;
+    border: 1.5px solid var(--cor-forte);
+    color: var(--cor-forte);
+    margin: 25px 0px 10px;
+}
+
+span{
+    color: var(--cor-fraquissima);
+}
+
+#titulo{
+    margin-top: 3.5em;
+}
